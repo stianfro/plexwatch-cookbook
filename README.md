@@ -1,4 +1,5 @@
-# plexwatch
+# plexWatch Cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook will configure plexWatch
 
+TODO: Detailed description & how to use with wrapper
